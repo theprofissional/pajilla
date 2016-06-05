@@ -8,7 +8,7 @@ use LWP::UserAgent;
 use WWW::Mechanize;
 $url = $ARGV[0];
 $file = $ARGV[1];
-$del1 = ' <a href="';
+$del1 = '<a href="';
 $del2 = '" class="mp4Thumb"';
 
 $ua= WWW::Mechanize->new( autocheck=>1 );
