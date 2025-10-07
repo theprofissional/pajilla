@@ -1,9 +1,0 @@
-requests
-python-telegram-bot
-
-
-git add .
-git commit -m "إضافة سكريبت البوت"
-git push origin main
-
-
